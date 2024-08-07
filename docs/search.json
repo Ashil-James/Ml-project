@@ -144,13 +144,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This website contains contents regarding an end to end Machine Learning project"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ml-project",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Machine learning represents a sophisticated approach to solving problems by leveraging data to inform and improve decision-making processes, contrasting sharply with traditional rule-based systems. Unlike rule-based learning, which relies on predefined rules and logic to make decisions, machine learning algorithms dynamically adapt and learn from patterns within data. This enables them to handle complex and variable inputs without explicit programming for every scenario. Essentially, machine learning is a richer computational translation of mathematical and statistical models, allowing for more flexible and accurate predictions by identifying patterns and insights that rule-based systems might overlook. A wonderful aspect of machine learning is its ability to store the learned patterns and knowledge, allowing models to be reused and refined over time for future predictions, thereby continuously enhancing their performance as more data becomes available."
   }
 ]

@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This website contains contents regarding an end to end Machine Learning project
